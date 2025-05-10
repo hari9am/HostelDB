@@ -103,7 +103,7 @@ The system uses SQLite for data storage. To view or manage the database:
    ```
 5. Add the remote repository URL:
    ```bash
-   git remote add origin https://github.com/yourusername/hostel-management-system.git
+   git remote add origin https://github.com/hari9am/HostelDB.git
    ```
 6. Push to GitHub:
    ```bash
