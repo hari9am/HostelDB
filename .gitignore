@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files
+*.db
+*.sqlite3
+# Exception for our main database
+!simple_hostel.db
+
+# Frontend build
+frontend/build/
+frontend/node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Backup folders
+backup_essential/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Batch file backups
+*.bat.bak 
